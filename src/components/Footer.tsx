@@ -12,16 +12,7 @@ export const Footer: React.FC = () => {
   <span>Made with</span>
   <Heart className="w-5 h-5 text-red-500 animate-pulse" />
   <span>by</span>
-  <a 
-    href="https://www.linkedin.com/in/sriganeshshiramshetty/" 
-    target="_blank" 
-    rel="noopener noreferrer"
-    className="flex items-center space-x-2"
-  >
-    <span>Sri Ganesh</span>
-    <Linkedin className="w-5 h-5" />
-  </a>
-  <span>&</span>
+
   <a 
     href="https://www.linkedin.com/in/morla-nandini/" 
     target="_blank" 
