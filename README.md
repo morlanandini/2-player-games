@@ -9,6 +9,9 @@ Arena Games is a **2-player gaming platform** built with **React and TypeScript*
 - **Built with React & TypeScript** – Ensuring performance and scalability.  
 - **Responsive UI** – Optimized for all devices.  
 
+## 🌐 Live Demo  
+🔗 **Play Now:** [Arena Games](https://2-player-games.vercel.app/)  
+
 ## 🛠️ Tech Stack  
 - **Frontend:** React.js, TypeScript  
 - **Styling:** CSS/Tailwind CSS (if applicable)  
